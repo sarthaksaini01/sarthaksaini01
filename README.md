@@ -1,27 +1,133 @@
-<h1 align="center">Hi 👋, I'm Sarthak Saini</h1>
-<h3 align="center">💻 Computer Science Undergraduate | Java Developer | Full-Stack Web Development Enthusiast I'm a B.Tech Computer Science and Engineering student at Quantum University, passionate about software development, problem-solving, and building practical applications. I enjoy working with Java, web technologies, and databases to turn ideas into functional software projects. I'm continuously improving my development skills through hands-on projects, DSA practice, and AI-assisted development tools. 🎓 Pursuing B.Tech in Computer Science & Engineering (2023–2027) 💻 Interested in Java Development and Full-Stack Web Development 🧠 Practicing Data Structures & Algorithms and problem-solving 📊 Completed a Data Analysis internship at Future Interns 📄 Published a research paper on a face recognition-based attendance system in IJPREMS Journal (2025) 🤝 Open to collaborating on software development and beginner-friendly open-source projects</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksaini01&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksaini01" /> </p>
+# Hi 👋, I'm Sarthak Saini
 
-- 🔭 I’m currently working on [smart_campus_management](https://github.com/sarthaksaini01/smart_campus_management)
+### Computer Science Undergraduate | Java Developer | Full-Stack Web Development Enthusiast
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Full-Stack Web Development, strengthening my Java and DSA skills, and building practical projects to improve my problem-solving abilities.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%7C+C+%7C+Web+Development;Building+Projects+and+Learning+Every+Day;Exploring+DSA+%26+Problem+Solving" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on [Face-Authentication-Application](https://github.com/sarthaksaini01/Face-Authentication-Application)
+[![GitHub](https://img.shields.io/badge/GitHub-sarthaksaini01-181717?style=for-the-badge&logo=github)](https://github.com/sarthaksaini01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Saini-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-saini-2559b0292/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sarthaksaini01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthaksaini01/)
 
-- 📫 How to reach me **sarthaksaini619@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fgPGEOCbzosvWAG1-eRXzmMTJSGJzf1T/view?usp=sharing](https://drive.google.com/file/d/1fgPGEOCbzosvWAG1-eRXzmMTJSGJzf1T/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-saini-2559b0292/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-saini-2559b0292/?isselfprofile=true" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sarthaksaini01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarthaksaini01/" height="30" width="40" /></a>
-</p>
+# 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🎓 B.Tech student in **Computer Science & Engineering** at Quantum University (2023–2027).
+- 💻 Interested in **Java Development, Full-Stack Web Development, and Software Engineering**.
+- 🌱 Currently strengthening my **Java, Data Structures & Algorithms, and web development** skills.
+- 🔍 I enjoy building practical applications and solving programming problems.
+- 📊 Completed a **Data Analysis Internship at Future Interns** (June–July 2025).
+- 📄 Published a research paper on a **Face Recognition-Based Smart Attendance Management System** in IJPREMS Journal (2025).
+- 🤝 Interested in collaborating on software development and beginner-friendly open-source projects.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaksaini01&show_icons=true&locale=en" alt="sarthaksaini01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksaini01&" alt="sarthaksaini01" /></p>
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🧠 Core Skills
+
+- Data Structures & Algorithms
+- Problem Solving
+- Database Design & Normalization
+- Web Development
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description | Technologies |
+|:--|:--|:--|
+| [🤖 Smart Attendance Management System](https://github.com/sarthaksaini01/Face-Authentication-Application) | Face recognition-based attendance system that records attendance in structured Excel sheets. Research paper published in IJPREMS Journal (2025). | Python, Excel |
+| [📚 Library Management System](https://github.com/sarthaksaini01/Library-Management-System-) | Desktop application for book inventory, issue/return operations, and member records using a normalized database. | Java, MySQL |
+
+---
+
+# 💼 Internship Experience
+
+### Data Analysis Intern — Future Interns
+**June 2025 – July 2025**
+
+- Developed an interactive **E-Commerce Sales Dashboard** to analyze and visualize sales performance trends.
+- Built a **Social Media Campaign Performance Tracker** to monitor and report campaign metrics.
+
+---
+
+# 🏆 Certifications & Achievements
+
+- 📄 **Research Publication:** Smart Attendance Management System Using Face Recognition — IJPREMS Journal (2025).
+- 🛡️ **Cyber Job Simulation** — Deloitte (2025).
+- 🌐 **The Complete Full Stack Web Development Bootcamp** — Udemy (2025).
+- ☁️ **Solution Architecture Job Simulation** — Forage / AWS (2025).
+- 👨‍💻 Active member of the **Codex Club**; participated in coding events, hackathons, and technical discussions.
+- 🧩 Participated in college-level hackathons and competitive coding events.
+- 🏅 Represented college in Kabaddi and Tug of War tournaments.
+
+---
+
+# 📚 Currently Learning
+
+- Full-Stack Web Development
+- Advanced Java concepts
+- Data Structures & Algorithms
+- Practical project development and problem solving
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarthaksaini01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sarthak's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksaini01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=sarthaksaini01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sarthaksaini619%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthaksaini619@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-saini-2559b0292/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthaksaini01/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sarthaksaini01)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Always learning, building, and improving one project at a time.*
+
+</div>
