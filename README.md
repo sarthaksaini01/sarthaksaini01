@@ -64,7 +64,7 @@
 
 | Project | Description | Technologies |
 |:--|:--|:--|
-| [🤖 Smart Attendance Management System](https://github.com/sarthaksaini01/Face-Authentication-Application) | Face recognition-based attendance system that records attendance in structured Excel sheets. Research paper published in IJPREMS Journal (2025). | Python, Excel |
+| [🤖 Smart Campus Management System]((https://github.com/sarthaksaini01/smart_campus_management)) | A full-stack web application built to support campus management workflows through a Spring Boot REST API and a React-based frontend. | 
 | [📚 Library Management System](https://github.com/sarthaksaini01/Library-Management-System-) | Desktop application for book inventory, issue/return operations, and member records using a normalized database. | Java, MySQL |
 
 ---
