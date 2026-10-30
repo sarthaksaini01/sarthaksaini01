@@ -64,7 +64,7 @@
 
 | Project | Description | Technologies |
 |:--|:--|:--|
-| [🤖 Smart Campus Management System]((https://github.com/sarthaksaini01/smart_campus_management)) | A full-stack web application built to support campus management workflows through a Spring Boot REST API and a React-based frontend. | 
+| [🤖 Smart Campus Management System](https://github.com/sarthaksaini01/smart_campus_management) | A full-stack web application built to support campus management workflows through a Spring Boot REST API and a React-based frontend. | Java,Springboot,React,Mysql |
 | [📚 Library Management System](https://github.com/sarthaksaini01/Library-Management-System-) | Desktop application for book inventory, issue/return operations, and member records using a normalized database. | Java, MySQL |
 
 ---
